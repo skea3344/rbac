@@ -1,2 +1,2 @@
 # rbac
-a rbac service for api permission
+a RBAC service for api permission
